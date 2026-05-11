@@ -37,7 +37,3 @@ Extra files (DP, SC, CRC) are shown but **NOT** included in bulk copy.
 
 - Violentmonkey or Tampermonkey
 - A browser that supports userscripts (Chrome, Firefox, Edge, etc.)
-
-## License
-
-MIT
