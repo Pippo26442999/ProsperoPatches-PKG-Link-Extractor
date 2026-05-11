@@ -17,7 +17,7 @@ A userscript that extracts all PKG download links from prosperopatches.com.
 2. Click the raw `.user.js` file link below
 3. Confirm installation
 
-**[Download Script]([https://github.com/Pippo26442999/ProsperoPatches-PKG-Link-Extractor/releases/download/v1.0/prosperopatches-pkg-extractor.user.js)**
+**[Download Script](https://github.com/Pippo26442999/ProsperoPatches-PKG-Link-Extractor/releases/download/v1.0/prosperopatches-pkg-extractor.user.js)**
 
 ## How to Use
 
