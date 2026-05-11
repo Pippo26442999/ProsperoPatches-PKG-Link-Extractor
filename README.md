@@ -9,7 +9,6 @@ A userscript that extracts all PKG download links from prosperopatches.com.
 - **Bulk copy** – Copies all numbered pieces (`_0.pkg`, `_1.pkg`, etc.) – one link per line
 - **Individual copy** – Copy any single link with one click
 - **Auto-refresh** – Links update automatically when you open patch details
-- **Draggable panel** – Move the panel anywhere on screen
 
 ## Installation
 
